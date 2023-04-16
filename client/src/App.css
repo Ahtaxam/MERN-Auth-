@@ -1,0 +1,66 @@
+#loginForm{
+  margin: 0 auto;
+  width: 30%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#formField{
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  padding: 20px;
+  
+}
+.inputField{
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  background-color: #cccc;
+}
+
+.label{
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.loginButton{
+  margin: 10px auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  background-color: #cccc;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: #000;
+  display: block;
+  cursor: pointer;
+}
+.loginHeading{
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  color: #000;
+}
+
+.googleButton{
+  margin: 40px auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  background-color: #cccc;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: #000;
+  display: block;
+  cursor: pointer;
+}
